@@ -1,6 +1,6 @@
 ## Multi-entry webpack demo
 
-This branch is using webpack 4
+This branch is using webpack 5 (does not work)
 
 ## Getting started
 

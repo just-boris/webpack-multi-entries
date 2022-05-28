@@ -1,5 +1,6 @@
 const path = require("path");
 module.exports = ["foo", "bar"].map((theme) => ({
+  mode: 'none',
   entry: "./src/index.js",
   output: {
     path: path.resolve(`dist/${theme}`),
